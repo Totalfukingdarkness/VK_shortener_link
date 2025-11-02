@@ -29,6 +29,7 @@ VK_API_TOKEN='7dsa5hfd676c1280676c12806b075fd447c776c176c128061fc60e9aaebd00bda8
 pynton main.py https://www.example.com
 ```
 Пример вывода в консоль:
+
 <img width="263" height="33" alt="image" src="https://github.com/user-attachments/assets/c090ea43-ab40-4871-8dbf-4248d85ce4fc" />
 
 -Для получения информации о колличестве переходов используйте:
@@ -36,6 +37,7 @@ pynton main.py https://www.example.com
 main.py https://vk.cc/6YpJQE
 ```
 Пример вывода в консоль:
+
 <img width="406" height="32" alt="image" src="https://github.com/user-attachments/assets/76e860bf-1158-4f25-91f0-f579e9e22b60" />
 
 
